@@ -1,3 +1,3 @@
 # Gymnasium
 
-Getting to know Gymnasium library
+Getting to know Gymnasium library in reinforcement learning
